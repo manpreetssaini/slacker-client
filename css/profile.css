@@ -55,7 +55,7 @@ aside{
 }
 
 aside img {
-    width: 80%;
+    width: 70%;
     height: auto;
     position: relative;
     top:50%;
@@ -73,17 +73,21 @@ main {
 
 h1{
     font-size: 3rem;   
+    color: #4404ac;
+    margin-bottom: 2%;
 }
 
 h2{
     display: inline-block;
     font-size: 1.5rem;
     margin-right: 8rem;
+    color: #4404ac;
 }
 
 h3{
     display: inline-block;
     font-size: 1rem;
+    color: #4404ac;
 }
 
 p{
@@ -105,4 +109,5 @@ span.label{
     font-weight: 600;
     min-width: 8rem;
     display: inline-block; 
+    color: #4404ac;
 }
